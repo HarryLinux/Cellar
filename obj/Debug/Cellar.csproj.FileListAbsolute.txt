@@ -1,0 +1,11 @@
+C:\Users\Harold\Documents\Visual Studio 2015\Projects\Cellar\Cellar\bin\Debug\Cellar.exe.config
+C:\Users\Harold\Documents\Visual Studio 2015\Projects\Cellar\Cellar\bin\Debug\Cellar.exe
+C:\Users\Harold\Documents\Visual Studio 2015\Projects\Cellar\Cellar\bin\Debug\Cellar.pdb
+C:\Users\Harold\Documents\Visual Studio 2015\Projects\Cellar\Cellar\obj\Debug\Cellar.csprojResolveAssemblyReference.cache
+C:\Users\Harold\Documents\Visual Studio 2015\Projects\Cellar\Cellar\obj\Debug\Cellar.Cellar.resources
+C:\Users\Harold\Documents\Visual Studio 2015\Projects\Cellar\Cellar\obj\Debug\Cellar.Form2.resources
+C:\Users\Harold\Documents\Visual Studio 2015\Projects\Cellar\Cellar\obj\Debug\Cellar.Form3.resources
+C:\Users\Harold\Documents\Visual Studio 2015\Projects\Cellar\Cellar\obj\Debug\Cellar.Properties.Resources.resources
+C:\Users\Harold\Documents\Visual Studio 2015\Projects\Cellar\Cellar\obj\Debug\Cellar.csproj.GenerateResource.Cache
+C:\Users\Harold\Documents\Visual Studio 2015\Projects\Cellar\Cellar\obj\Debug\Cellar.exe
+C:\Users\Harold\Documents\Visual Studio 2015\Projects\Cellar\Cellar\obj\Debug\Cellar.pdb
